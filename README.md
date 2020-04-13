@@ -1,6 +1,6 @@
 # vclassroom
 
-A new Flutter application.
+Instruction for using this application, while clicking the Floating action button it'll pop up three menu. if you double tap that FAB it'll open Live stream page and If you Long press the FAB then it'll open the file picking page. please follow this instructions
 
 ## Getting Started
 
